@@ -57,7 +57,7 @@ dinobl3.src="dinobl3.png";
 var dinobl4=new Image()
 dinobl4.src="dinobl4.png";
 
-
+console.log("tovae updeitaaaaaaa")
 var tm=1
 var prom=dino
 for(iF=1; iF<=broiBalls; iF=iF+1) {
